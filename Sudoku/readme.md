@@ -13,6 +13,5 @@ A C++ implementation of a Sudoku puzzle solver using backtracking algorithm.
 - C++ compiler (g++ or similar)
 - Make (optional, for using the provided Makefile)
 
-> [!NOTE]
-> Put 0 instead of blank space in table.
-
+## Example
+![example](https://github.com/user-attachments/assets/d467d5e9-ed73-40ee-a4b7-bca4664daa9e)
