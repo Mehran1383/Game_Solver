@@ -16,10 +16,10 @@ In the following pictures you can see how the problem is modeled.
 ![image](https://github.com/user-attachments/assets/ba718b28-de7d-4b4f-9561-8029f3a4c23c)
 ![image](https://github.com/user-attachments/assets/8f8b30e1-7f4b-4ca6-ac46-71374010fc90)
 
-rotation 0 = no rotation
-rotation 1 = 90 degree in clockwise direction or one steр
-rotation 2 = 180 degree in clockwise direction or two steps
-rotation 3 = 270 degree in clockwise direction or three steps
+- rotation 0 = no rotation
+- rotation 1 = 90 degree in clockwise direction or one steр
+- rotation 2 = 180 degree in clockwise direction or two steps
+- rotation 3 = 270 degree in clockwise direction or three steps
 
 Example: 4->1 would mean Card Number 4 that we have
 rotate clockwise for 90 degrees
