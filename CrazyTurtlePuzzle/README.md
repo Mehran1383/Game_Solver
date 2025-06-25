@@ -1,14 +1,14 @@
 # crazy-turtles-puzzle-game-solver
 Program finds all possible valid combinations of turtle cards in game "Crazy Turtles Puzzle Game".
+![turtles](https://github.com/user-attachments/assets/ccfe6978-4490-49c5-87ff-e76f26b13d92)
 
 ## Game Rules:
-![solved](https://github.com/user-attachments/assets/86da2698-f437-4c22-a12c-0325605c0ef7)
 Crazy Turtles Puzzle Game comes with 9 square cards. Each card displayes half of an image (turtle) on every edge. 
 The object of the puzzle is to arrange the nine pieces in a 3X3 square where all of the images matched up. 
 For example the tail of a turtle would be one card and that would need to match the head of the turtle which was on a different card.
 
 ## One solution:
-![turtles](https://github.com/user-attachments/assets/ccfe6978-4490-49c5-87ff-e76f26b13d92)
+![solved](https://github.com/user-attachments/assets/86da2698-f437-4c22-a12c-0325605c0ef7)
 
 ## Details on implementation
 For solving the puzzle and achive all possible solutions, backtrack approach has been used.
@@ -23,4 +23,5 @@ rotation 3 = 270 degree in clockwise direction or three steps
 
 Example: 4->1 would mean Card Number 4 that we have
 rotate clockwise for 90 degrees
+
 
